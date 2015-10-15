@@ -9,6 +9,7 @@ DHT dht(DHTPIN, DHTTYPE);
 // 1) Orvalho
 // 2) Umidade da Terra
 // 3) Torneira
+// Leônidas
 
 
 //dht_dpin DHT11; //Inicializa o sensor
